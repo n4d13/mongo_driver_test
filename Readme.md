@@ -7,7 +7,7 @@ This behaviour comprises three components:
 * Db engine: Providing data's storage, access's security and db operations (external component) 
 
 ## Running test's scenarios
-This project runa complete scenario, incluiding data generation if need.  
+This project run a complete scenario, incluiding data generation if need.  
 All the process, including connection pool, test data, query executions, and so on,
 lives at stage execution and no one survives between executions.
 
