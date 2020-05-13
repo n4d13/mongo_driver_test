@@ -1,5 +1,5 @@
 # Mongo Driver Test
-Project's objetive is reproduce the faulty behaviour of some microservices at job.
+Project's objetive is reproduce the faulty behaviour of some microservices at my job.
 
 This behaviour comprises three components:
 * Microservice' implementation: Covered by the test implementation, doing some random querys
